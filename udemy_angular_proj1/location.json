@@ -1,0 +1,37 @@
+[
+  {
+    
+   "id":1,
+   "name":"Lynn location",
+   "street":"333 Walnut",
+   "city":"Lynn",
+   "state":"MA",
+   "zip":"01902",
+   "phone":"258-369-7896"
+  },
+  
+  {
+    
+       "id":2,
+   "name":"Lynne location",
+   "street":"333 Walnut",
+   "city":"Lynn",
+   "state":"MA",
+   "zip":"01902",
+   "phone":"258-369-7895"
+    
+  },
+  
+  {
+    
+       "id":3,
+   "name":"Lynnf location",
+   "street":"333 Walnut",
+   "city":"Lynn",
+   "state":"MA",
+   "zip":"01902",
+   "phone":"258-369-7894"
+  }
+  
+  
+  ]
